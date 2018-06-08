@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<trovit>
+<ad>
+	<id><![CDATA[drawska1]]></id>
+	<url><![CDATA[http://mieszkanie.rallymania.pl]]></url>
+	<title><![CDATA[Mieszkanie 56m2, Warszawa, Ochota]]></title>
+	<type><![CDATA[For Rent]]></type>
+
+	<agency><![CDATA[Ogłoszenie bezpośrednie]]></agency>
+	<content><![CDATA[Mieszkanie 2-pokojowe z balkonem 5m2, wykończone w najwyższym standardzie, częściowo umeblowane (do uzgodnienia). <br/> Więcej informacji na stronie http://mieszkanie.rallymania.pl ]]></content>
+
+	<price><![CDATA[2000]]></price>
+
+	<property_type><![CDATA[Mieszkanie]]></property_type>
+	<floor_number><![CDATA[1]]></floor_number>
+	<is_furnished><![CDATA[1]]></is_furnished>
+	<floor_area unit="meters"><![CDATA[56]]></floor_area>
+	<by_owner><![CDATA[1]]></by_owner>
+	<rooms><![CDATA[2]]></rooms>
+
+	<bathrooms><![CDATA[1]]></bathrooms>
+	<parking><![CDATA[1]]></parking>
+
+	<address><![CDATA[ul. Drawska 14d]]></address>
+	<city><![CDATA[Warszawa]]></city>
+
+	<city_area><![CDATA[Ochota]]></city_area>
+	<postcode><![CDATA[02-202]]></postcode>
+	<region><![CDATA[Mazowieckie]]></region>
+
+	<latitude><![CDATA[52.204004]]></latitude>
+
+	<longitude><![CDATA[20.953898]]></longitude>
+
+	<pictures>
+		<picture>
+			<picture_url><![CDATA[http://mieszkanie.rallymania.pl/images/kuchnia1.jpg]]></picture_url>
+			<picture_title><![CDATA[kuchnia 1]]></picture_title>
+		</picture>
+		<picture>
+			<picture_url><![CDATA[http://mieszkanie.rallymania.pl/images/kuchnia2.jpg]]></picture_url>
+			<picture_title><![CDATA[kuchnia 2]]></picture_title>
+		</picture>
+		<picture>
+			<picture_url><![CDATA[http://mieszkanie.rallymania.pl/images/kuchnia3.jpg]]></picture_url>
+			<picture_title><![CDATA[kuchnia 3]]></picture_title>
+		</picture>
+		<picture>
+			<picture_url><![CDATA[http://mieszkanie.rallymania.pl/images/kuchnia4.jpg]]></picture_url>
+			<picture_title><![CDATA[kuchnia 4]]></picture_title>
+		</picture>
+		<picture>
+			<picture_url><![CDATA[http://mieszkanie.rallymania.pl/images/kuchnia5.jpg]]></picture_url>
+			<picture_title><![CDATA[kuchnia 5]]></picture_title>
+		</picture>
+		<picture>
+			<picture_url><![CDATA[http://mieszkanie.rallymania.pl/images/kuchnia6.jpg]]></picture_url>
+			<picture_title><![CDATA[kuchnia 6]]></picture_title>
+		</picture>
+		
+		<picture>
+			<picture_url><![CDATA[http://mieszkanie.rallymania.pl/images/salon1.jpg]]></picture_url>
+			<picture_title><![CDATA[salon 1]]></picture_title>
+		</picture>
+		<picture>
+			<picture_url><![CDATA[http://mieszkanie.rallymania.pl/images/salon3.jpg]]></picture_url>
+			<picture_title><![CDATA[salon 2]]></picture_title>
+		</picture>
+		<picture>
+			<picture_url><![CDATA[http://mieszkanie.rallymania.pl/images/salon8.jpg]]></picture_url>
+			<picture_title><![CDATA[salon 3]]></picture_title>
+		</picture>
+		<picture>
+			<picture_url><![CDATA[http://mieszkanie.rallymania.pl/images/lazienka1.jpg]]></picture_url>
+			<picture_title><![CDATA[łazienka 1]]></picture_title>
+		</picture>
+		<picture>
+			<picture_url><![CDATA[http://mieszkanie.rallymania.pl/images/lazienka2.jpg]]></picture_url>
+			<picture_title><![CDATA[łazienka 2]]></picture_title>
+		</picture>
+		<picture>
+			<picture_url><![CDATA[http://mieszkanie.rallymania.pl/images/lazienka4.jpg]]></picture_url>
+			<picture_title><![CDATA[łazienka 3]]></picture_title>
+		</picture>
+		<picture>
+			<picture_url><![CDATA[http://mieszkanie.rallymania.pl/images/sypialnia1.jpg]]></picture_url>
+			<picture_title><![CDATA[sypialnia 1]]></picture_title>
+		</picture>
+		<picture>
+			<picture_url><![CDATA[http://mieszkanie.rallymania.pl/images/sypialnia2.jpg]]></picture_url>
+			<picture_title><![CDATA[sypialnia 2]]></picture_title>
+		</picture>
+		<picture>
+			<picture_url><![CDATA[http://mieszkanie.rallymania.pl/images/sypialnia3.jpg]]></picture_url>
+			<picture_title><![CDATA[sypialnia 3]]></picture_title>
+		</picture>
+		<picture>
+			<picture_url><![CDATA[http://mieszkanie.rallymania.pl/images/global1.jpg]]></picture_url>
+			<picture_title><![CDATA[basen]]></picture_title>
+		</picture>
+		<picture>
+			<picture_url><![CDATA[http://mieszkanie.rallymania.pl/images/balkon1.jpg]]></picture_url>
+			<picture_title><![CDATA[balkon 1]]></picture_title>
+		</picture>
+		<picture>
+			<picture_url><![CDATA[http://mieszkanie.rallymania.pl/images/balkon2.jpg]]></picture_url>
+			<picture_title><![CDATA[balkon 2]]></picture_title>
+		</picture>
+		<picture>
+			<picture_url><![CDATA[http://mieszkanie.rallymania.pl/images/otoczenie1.jpg]]></picture_url>
+			<picture_title><![CDATA[otoczenie 1]]></picture_title>
+		</picture>
+		<picture>
+			<picture_url><![CDATA[http://mieszkanie.rallymania.pl/images/otoczenie2.jpg]]></picture_url>
+			<picture_title><![CDATA[otoczenie 2]]></picture_title>
+		</picture>
+	</pictures>
+
+	<date><![CDATA[15/08/2012 20:20:00]]></date>
+
+</ad>
+</trovit>

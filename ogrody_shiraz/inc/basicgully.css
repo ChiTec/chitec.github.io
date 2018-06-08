@@ -1,0 +1,387 @@
+body {
+	margin: 0px; padding: 0px; text-align: center; color: white; font-family: "Lucida Grande", Tahoma, "Trebuchet MS", Verdana, Geneva, Helvetica, Arial, SunSans-Regular, sans-serif; font-size: 11px; background-color: black;
+}
+#container {
+	margin: 220px auto 0px; padding: 10px 0px 0px; width: 663px; height: auto; background-image: none; background-color: white;
+}
+#pageblue {
+	margin: 0px 10px; width: 593px; height: auto; text-align: left; color: rgb(37, 24, 1); line-height: 160%; padding-top: 70px; padding-bottom: 1px; padding-left: 50px; font-family: "trebuchet ms"; font-size: 13px; background-image: url("../images/bluegradient.png"); background-repeat: repeat-y;
+}
+#pagebottom {
+	width: 663px; height: 15px; margin-right: auto; margin-left: auto; background-image: url("../images/bluebottom.png"); background-attachment: scroll; background-repeat: no-repeat;
+}
+#leftlogo {
+	top: 3px; width: 440px; height: 339px; margin-top: 10px; margin-left: -97px; position: absolute; z-index: 12; background-image: url("../images/house_head.png"); background-attachment: scroll; background-repeat: no-repeat;
+}
+#rightlogo {
+	top: 16px; width: 406px; height: 290px; margin-left: 290px; position: absolute; z-index: 21; behavior: url(../images/iepngfix.htc); background-image: url("../images/for_sale_sign.png"); background-attachment: scroll; background-repeat: no-repeat;
+}
+#mainlogo {
+	top: 10px; width: 758px; height: 430px; text-indent: -5000px; margin-left: -13px; position: absolute; z-index: 5; background-image: none; background-repeat: no-repeat;
+}
+#openhouse {
+	border-width: 0px; top: 230px; width: 125px; height: 124px; margin-left: 540px; display: block; position: absolute; z-index: 120; outline-width: 0px;
+}
+.negleft {
+	margin-left: -34px;
+}
+img {
+	border-width: 0px;
+}
+.mapborder {
+	border: 2px solid black; margin-left: 10px;
+}
+.noborder {
+	outline-style: none;
+}
+input {
+	position: relative; z-index: 20;
+}
+label {
+	position: relative; z-index: 20;
+}
+ul.infolist {
+	left: -34px; position: relative;
+}
+ul.infolist li {
+	width: 600px; margin-left: -20px;
+}
+input.nobordercenter {
+	vertical-align: middle; outline-style: none;
+}
+a {
+	color: rgb(221, 102, 0); font-weight: bold; text-decoration: none; position: relative; z-index: 20;
+}
+a.giftdonate {
+	width: 134px; height: 36px; text-indent: -5000px; overflow: hidden; margin-top: -2px; margin-right: 40px; float: left; display: block; cliptop: auto; clipright: auto; clipbottom: auto; clipleft: auto; background-image: url("../images/btn_giftdonate.png"); background-repeat: no-repeat;
+}
+a.directions {
+	width: 130px; height: 32px; text-indent: -5000px; overflow: hidden; padding-right: 40px; float: left; display: block; cliptop: auto; clipright: auto; clipbottom: auto; clipleft: auto; background-image: url("../images/btn_directions.png"); background-repeat: no-repeat;
+}
+a.contact {
+	width: 130px; height: 32px; text-indent: -5000px; overflow: hidden; padding-right: 40px; float: left; display: block; cliptop: auto; clipright: auto; clipbottom: auto; clipleft: auto; background-image: url("../images/btn_directions.png"); background-repeat: no-repeat;
+}
+a.back {
+	width: 130px; height: 32px; text-indent: -5000px; overflow: hidden; padding-right: 40px; float: left; display: block; cliptop: auto; clipright: auto; clipbottom: auto; clipleft: auto; background-image: url("../images/btn_directions.png"); background-repeat: no-repeat;
+}
+a.contact {
+	background-image: url("../images/btn_sendmail.png");
+}
+a.back {
+	background-image: url("../images/btn_back.png");
+}
+a.small {
+	font-size: 11px;
+}
+a:hover {
+	color: rgb(0, 119, 170); text-decoration: underline;
+}
+a:focus {
+	color: rgb(0, 119, 170);
+}
+a:active {
+	color: rgb(45, 63, 87); text-decoration: none;
+}
+div.buttonline {
+	margin: 20px 0px 20px 120px; width: 400px; height: 32px; text-align: center;
+}
+div.clearer {
+	margin: 0px; padding: 0px; width: 1px; height: 0px; line-height: 1px; clear: both; font-size: 1px; display: block;
+}
+img.framed {
+	border-width: 1px 1px 2px; border-style: solid; border-color: rgb(170, 170, 187); margin: 0px 10px 5px; padding: 8px; position: relative; z-index: 50; background-color: white;
+}
+img.framedleft {
+	border-width: 1px 1px 2px; border-style: solid; border-color: rgb(170, 170, 187); margin: 0px 10px 5px; padding: 8px; position: relative; z-index: 50; background-color: white;
+}
+img.framedright {
+	border-width: 1px 1px 2px; border-style: solid; border-color: rgb(170, 170, 187); margin: 0px 10px 5px; padding: 8px; position: relative; z-index: 50; background-color: white;
+}
+img.framedleft {
+	margin: 5px 8px 25px 0px; float: left;
+}
+img.framedright {
+	margin: 22px 26px 25px 8px; float: right;
+}
+.thumbblock {
+	left: 15px; position: relative; z-index: 100;
+}
+div.girlsright {
+	margin: 22px -46px 20px -5px; width: 373px; height: 205px; float: right; display: block; position: relative; z-index: 5; background-image: url("../images/photo_girls.jpg"); background-repeat: no-repeat;
+}
+#pageblue div.shortenright {
+	margin: 0px 0px 0px -50px; padding: 0px 0px 0px 50px; width: 530px;
+}
+#pageblue div.infoblock {
+	clear: left; min-width: 280px;
+}
+#pageblue hr {
+	border-width: 2px 0px; border-style: solid hidden; left: -5px; width: 90%; text-align: center; clear: both; margin-top: 0px; margin-bottom: 10px; border-top-color: rgb(173, 190, 207); border-bottom-color: rgb(228, 239, 255); display: block; position: relative;
+}
+#pageblue hr.tall {
+	margin-top: 14px; margin-bottom: 18px;
+}
+#pageblue hr.extrabottom {
+	margin-bottom: 28px;
+}
+#pageblue hr.extratop {
+	margin-top: 20px;
+}
+#pageblue h1 {
+	color: black; font-size: 24px;
+}
+#pageblue h1.tight {
+	color: rgb(34, 34, 34); font-size: 21px; margin-top: 0px; margin-right: 8px; margin-bottom: 0px;
+}
+#pageblue div.address {
+	width: 522px; text-align: center; margin-top: 30px; margin-bottom: 20px; margin-left: 10px; display: block;
+}
+#pageblue div.address p {
+	color: rgb(40, 40, 40); line-height: 120%; font-family: "Trebuchet MS", "Lucida Grande", Geneva, Arial, Helvetica, SunSans-Regular, sans-serif; font-size: 14px; font-weight: bold; text-decoration: none; margin-top: 0px; margin-right: 8px; position: relative; z-index: 20; font-stretch: semi-condensed;
+}
+#pageblue h2 {
+	color: rgb(40, 40, 40); font-family: "Trebuchet MS", "Lucida Grande", Geneva, Arial, Helvetica, SunSans-Regular, sans-serif; font-size: 14px; font-weight: bold; text-decoration: none; margin-top: 6px; margin-right: 8px; margin-bottom: 6px; position: relative; z-index: 20; font-stretch: semi-condensed;
+}
+#pageblue h2.bigblue {
+	color: rgb(0, 119, 170); font-size: 21px; font-weight: bold; margin-left: 100px;
+}
+#pageblue h2.block {
+	padding: 15px 0px 0px; left: -50px; width: 280px; height: 35px; text-align: left; color: white; text-indent: 40px; font-size: 23px; font-weight: bold; margin-top: 16px; margin-right: -50px; float: left; position: relative; z-index: 5; background-color: rgb(0, 119, 170);
+}
+#pageblue div.blockcap {
+	width: 11px; height: 50px; margin-top: 16px; float: left; background-image: url("../images/blue_block_end.png"); background-repeat: no-repeat;
+}
+#pageblue h2.sub {
+	top: 20px; width: 346px; margin-left: -50px; float: left; position: relative;
+}
+#pageblue h3 {
+	margin: 0px 0px 2px; color: rgb(40, 40, 40); font-family: "Trebuchet MS", "Lucida Grande", Geneva, Arial, Helvetica, SunSans-Regular, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none; font-stretch: semi-condensed;
+}
+#pageblue h3.small {
+	margin: 0px 0px 2px; color: rgb(40, 40, 40); line-height: 12px; font-family: "Lucida Grande", Geneva, Arial, Helvetica, SunSans-Regular, sans-serif; font-size: 11px; font-weight: bold; text-decoration: none; font-stretch: semi-condensed;
+}
+.dark {
+	color: rgb(40, 40, 40);
+}
+#pageblue ul.small {
+	padding-top: 0px; padding-left: 16px; margin-top: 0px; margin-bottom: 10px;
+}
+#pageblue ul.ssmall {
+	padding-top: 0px; padding-left: 16px; margin-top: 0px; margin-bottom: 10px;
+}
+#pageblue ul.small li {
+	line-height: 130%; margin-right: 0px; margin-bottom: 2px;
+}
+#pageblue ul.ssmall li {
+	line-height: 130%; margin-right: 0px; margin-bottom: 2px;
+}
+#pageblue li {
+	color: rgb(50, 46, 46); margin-right: 20px;
+}
+#pageblue p {
+	margin-top: 0px; margin-right: 8px; margin-bottom: 14px; z-index: 20;
+}
+#pageblue p.tight {
+	margin: 0px 8px 14px 0px;
+}
+#pageblue .small {
+	line-height: 140%; font-size: 11px;
+}
+#pageblue .ssmall {
+	line-height: 140%; font-size: 10px;
+}
+#pageblue p.figure {
+	margin: 0px 0px 10px; font-size: 11px;
+}
+#pageblue p.figurecenter {
+	margin: 0px 0px 10px; text-align: center; font-size: 11px;
+}
+#pageblue p.right {
+	float: right;
+}
+#pageblue p.left {
+	margin-right: 0px; float: left;
+}
+#pageblue ul.right {
+	margin-top: 0px; float: right;
+}
+#pageblue ul.left {
+	margin-top: 0px; margin-right: 0px; float: left;
+}
+#pageblue div.shopitem {
+	outline: silver solid 2px; width: 250px; margin-top: 20px; margin-right: 10px; margin-bottom: 10px; float: left;
+}
+#pageblue div.shopitem div.shoptext {
+	display: table-cell;
+}
+#pageblue div.shopitem h1 {
+	color: black; line-height: 100%; font-size: 12px; font-weight: bold; margin-top: 0px; margin-bottom: 0px;
+}
+#pageblue div.shopitem img {
+	margin-top: -6px; float: left;
+}
+#pageblue div.shopitem p {
+	margin: 0px; padding: 0px; line-height: 110%;
+}
+#pageblue .columnright {
+	float: right;
+}
+#pageblue .columnleft {
+	margin-right: 10px; float: left;
+}
+#pageblue ul.tight {
+	margin-top: 5px; margin-right: 8px; margin-bottom: 27px;
+}
+#pageblue li.tight {
+	margin-top: 0px; margin-right: 0px; margin-left: 14px;
+}
+#pageblue img.right {
+	margin: 6px 10px 8px 0px; float: right;
+}
+#pageblue div.right {
+	margin: 6px 10px 8px 0px; float: right;
+}
+#pageblue img.left {
+	margin: 6px 10px 8px 0px; float: left; display: inline;
+}
+#pageblue div.left {
+	margin: 6px 10px 8px 0px; float: left; display: inline;
+}
+.justright {
+	margin: 0px; float: right;
+}
+.justleft {
+	margin: 0px; float: left;
+}
+#pageblue div.medialeft {
+	width: 220px; text-align: center; clear: none; float: left; display: table-cell;
+}
+#pageblue div.mediaright {
+	margin: 0px; padding: 0px; width: 268px; clear: none; float: right; display: block;
+}
+#pageblue div.mediabox {
+	margin: 10px; border: 1px solid rgb(90, 94, 98); width: 492px; line-height: 15px; padding-top: 5px; padding-bottom: 5px; clear: both; font-size: 11px; display: table; min-height: 20px; background-color: rgb(249, 252, 255);
+}
+#pageblue div.mediabox h2 {
+	padding-top: 0px; padding-bottom: 0px;
+}
+#pageblue div.promobox {
+	margin: 0px 20px 10px; padding: 10px 5px 5px 10px; border: 1px solid rgb(90, 94, 98); width: 457px; line-height: 15px; clear: both; font-size: 11px; min-height: 20px; background-color: rgb(249, 252, 255);
+}
+#pageblue div.promoboxreverse {
+	margin: 0px 20px 10px; padding: 10px 5px 5px 10px; border: 1px solid rgb(90, 94, 98); width: 457px; line-height: 15px; clear: both; font-size: 11px; min-height: 20px; background-color: rgb(249, 252, 255);
+}
+#pageblue div.promoboxreverse {
+	color: gray; background-color: black;
+}
+#pageblue div.promobox h2 {
+	padding-top: 0px; padding-bottom: 0px;
+}
+#pageblue div.promoboxreverse h2 {
+	padding-top: 0px; padding-bottom: 0px;
+}
+#pageblue div.promoboxreverse h2 {
+	color: silver;
+}
+#pageblue .loginbox {
+	margin: 0px 20px 10px; width: 260px; text-align: right; clear: both;
+}
+#pageblue div.centro {
+	margin: 6px 11px 8px 0px; width: auto; text-align: center; clear: both; display: block;
+}
+#pageblue div.quote {
+	padding: 10px 12px 8px; border: 1px dotted rgb(90, 94, 98); clear: both; font-size: 11px; margin-right: 20px; margin-bottom: 10px; margin-left: 10px; background-color: rgb(249, 252, 255);
+}
+#pageblue div.quote p {
+	margin: 2px 0px 4px;
+}
+#pageblue div.quotelarge p {
+	margin: 2px 0px 4px;
+}
+#pageblue .serifd {
+	font-family: Baskerville, Georgia, "Times New Roman", Times, serif; font-size: 13px;
+}
+#pageblue .legend {
+	padding: 14px 8px 13px; outline: rgb(192, 192, 192) solid 1px; top: -2px; line-height: 140%; font-size: 11px; margin-left: 20px; position: relative;
+}
+#pageblue .legend img {
+	top: 8px; position: relative;
+}
+a.footer {
+	background-position: right 0px; padding: 13px 136px 10px 10px; width: 60px; height: 34px; text-align: right; color: rgb(153, 153, 153); font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", geneva, verdana, sans-serif; font-size: 11px; font-weight: bold; margin-top: 10px; margin-right: auto; margin-left: auto; display: block; background-image: url("../images/tm_logo_blk_sm.png"); background-repeat: no-repeat;
+}
+a.footer:hover {
+	text-decoration: none;
+}
+ul.credits {
+	margin: 0px auto; padding: 0px; width: 90px; display: block; position: relative;
+}
+#credits {
+	width: 90px; height: 25px; text-align: left; overflow: hidden; margin-top: 3px; display: block; position: relative;
+}
+#credits:hover {
+	width: 194px;
+}
+#credits span {
+	background: url("../images/tiny_tmlogo.png") 0px 0px; top: -30px; width: 194px; height: 55px; text-indent: -5000px; overflow: hidden; display: block; position: relative; cursor: pointer;
+}
+#credits:hover span {
+	top: 0px;
+}
+.highslide {
+	cursor: url(../highslide/graphics/zoomin.cur), pointer;
+}
+.highslide-image {
+	border: 4px solid white;
+}
+.highslide-image-blur {
+	
+}
+.highslide-caption {
+	border-width: medium 2px 2px; border-style: none solid solid; border-color: currentColor white white; padding: 5px; font-family: Verdana, Helvetica; font-size: 10px; display: none; background-color: white;
+}
+.highslide-loading {
+	padding: 3px; color: white; text-transform: uppercase; font-size: 9px; font-weight: bold; text-decoration: none; border-top-color: white; border-bottom-color: white; border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid; display: block; background-color: black;
+}
+a.highslide-credits {
+	display: none;
+}
+a.highslide-credits i {
+	display: none;
+}
+.highslide-move {
+	cursor: move;
+}
+.highslide-overlay {
+	display: none;
+}
+.tempimg {
+	background: url("../images/controlbar4.png"); width: 144px; height: 40px; behavior: url(../images/iepngfix.htc);
+}
+.controlbar {
+	background: url("../images/controlbar4.gif"); left: 3px; width: 144px; height: 40px; margin-top: -3px; position: relative;
+}
+.controlbar a {
+	float: left; display: block;
+}
+.controlbar a:hover {
+	background-image: url("../images/controlbar4-hover.gif");
+}
+.controlbar .previous {
+	width: 43px;
+}
+.controlbar .next {
+	background-position: -43px 0px; width: 34px;
+}
+.controlbar .highslide-move {
+	background-position: -77px 0px; width: 34px;
+}
+.controlbar .close {
+	background-position: -111px 0px; width: 33px;
+}
+.highslide-display-block {
+	text-align: left; color: black; display: block;
+}
+.highslide-display-none {
+	display: none;
+}
